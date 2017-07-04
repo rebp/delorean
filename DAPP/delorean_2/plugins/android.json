@@ -1,0 +1,40 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "nl.rebp.delorean"
+        },
+        "com.phonegap.plugins.barcodescanner": {
+            "PACKAGE_NAME": "nl.rebp.delorean"
+        },
+        "net.yoik.cordova.plugins.screenorientation": {
+            "PACKAGE_NAME": "nl.rebp.delorean"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "nl.rebp.delorean"
+        },
+        "nl.x-services.plugins.backgroundaudio": {
+            "PACKAGE_NAME": "nl.rebp.delorean"
+        },
+        "cordova-plugin-yanap": {
+            "PACKAGE_NAME": "nl.rebp.delorean"
+        },
+        "cordova-plugin-background-mode": {
+            "PACKAGE_NAME": "nl.rebp.delorean"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "nl.rebp.delorean"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "nl.rebp.delorean"
+        }
+    }
+}

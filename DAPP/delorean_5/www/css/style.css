@@ -1,0 +1,16 @@
+body {
+	background-image: url("../img/achtergrond2x.png");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 position: relative;
+}
+
+audio {
+	display: none;
+}
+
+img {
+	margin-top: 20px;
+	width: 150px;
+	height: auto;
+}

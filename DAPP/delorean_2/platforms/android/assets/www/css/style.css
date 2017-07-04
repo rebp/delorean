@@ -1,0 +1,61 @@
+body {
+	background-image: url("../img/achtergrond2x.png");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 position: relative;
+	 font-family: 'Macondo Swash Caps', cursive;
+}
+
+audio {
+	display: none;
+}
+
+#hierogliefen {
+	position: absolute;
+	top: 0px;
+	right: 30px;
+	visibility: hidden;
+}
+
+.hieroglief-verzamel {
+	width: 49px;
+	height: 49px;
+}
+
+#dagobert {
+	margin: 20px auto 0;
+	display: inherit;
+	width: 30%;
+	height: auto;
+}
+
+#text > p {
+	text-align: center;
+    margin: 18px auto 0;
+    font-size: 1.8em;
+    width: 88%;
+    color: #704709;
+}
+
+#scan-btn {
+	margin: 20px auto 0;
+	display: inherit;
+	width: 15%;
+	height: auto;
+	visibility: hidden;
+}
+
+#hints {
+	position: absolute;
+	bottom: -10px;
+	right: 20px;
+	visibility: hidden;
+}
+
+#doorgaanknop {
+	position: absolute;
+	top: 110px;
+	right: 30px;
+	width: 15%;
+	height: auto;
+}
